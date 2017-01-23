@@ -48,7 +48,14 @@
     </section>
     <section id="overview-section" class="section">
         <div class="container">
-            {{content}}
+                <span class="news-badge">News Release</span>
+                <span class="news-badge-date">{{page.news_date_and_location}}</span>
+                <br/>
+                <br/>
+                <h2 class="section-title news-article-title">
+                    {{page.title}}
+                </h2>
+                {{content}}
         </div>
     </section>
         

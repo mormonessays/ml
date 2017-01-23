@@ -3,72 +3,18 @@ layout: newsroom
 title: Newsroom
 permalink: /newsroom/
 ---
-<header id="header" class="header">  
-    <div class="container">      
-        <nav class="main-nav navbar-right" role="navigation">
-            <div class="navbar-header">
-                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button><!--//nav-toggle-->
-            </div><!--//navbar-header-->
-            <div id="navbar-collapse" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li class="nav-item"><a href="/index.html">Home</a></li>
-                    <li class="nav-item"><a href="/newsroom/">Newsroom</a></li>
-                </ul><!--//nav-->
-            </div><!--//navabr-collapse-->
-        </nav><!--//main-nav-->                     
-    </div><!--//container-->
-</header><!--//header-->   
-<section class="promo-section section section-on-bg">
-        <div class="hero-slider-wrapper">
-            <div class="flexslider hero-slider">
-                <ul class="slides">
-                    <li class="slide slide-1"></li>
-                </ul>
-            </div>
-            <div class="hero-slider-mask"></div>
-        </div><!--//hero-slider-wrapper--> 
-        <div class="promo-content">  
-            <div class="container container-header">
-                <div class="logo pull-left">
-                    <img src="/assets/images/ml_logo_125px.png" />
-                </div>
-                <div class="pull-left">
-                    <h2 class="">MormonLeaks&trade; Newsroom</h2>
-                    <p class="tagline"></p>
-                </div>
-                <div class="clear"></div>
-            </div>
-        </div><!--//container-->
-    </section><!--//promo-section-->
-    <section id="overview-section" class="section">
-        
-        <div class="container">
-            
-            <div class="row">
-                <span class="news-badge">News Release</span>
-                <span class="news-badge-date">9 January 2017 - Las Vegas, NV</span>
-                <br/>
-                <br/>
-                <h2 class="section-title news-article-title">
-                    MormonLeaks.io launches today
-                </h2>
-                <p>
-                    At the request of WikiLeaks, MormonWikiLeaks&trade; has changed its name to MormonLeaks&trade;. 
-                    While WikiLeaks is in full support of our mission to expose corruption and abuse within the Mormon Church, 
-                    they felt that the names were too similar.
-                </p>
-                <p>
-                    Going forward, our primary contacts will be: <a href="http://MormonLeaks.io">MormonLeaks.io</a>, 
-                    <a href="https://facebook.com/Mormon_ Leaks">Facebook.com/Mormon_ Leaks</a>, 
-                    <a href="https://twitter.com/Mormon_Leaks">Twitter.com/Mormon_Leaks</a>, and 
-                    <a href="https://youtube.com/MormonLeaks">YouTube.com/MormonLeaks</a>.
-                </p>
-                </p>
-            </div>
-        </div><!--//section-intro-->
-        
-    <div style="height:335px">&nbsp;</div>
+{% for post in site.posts %}
+    <div class="row">
+        <span class="news-badge">News Release</span>
+        <span class="news-badge-date">{{ post.news_date_and_location }}</span>
+        <br/>
+        <br/>
+        <h2 class="section-title news-article-title">
+            <a href="{{post.url}}">{{ post.title }}</a>
+        </h2>
+        <p>
+            {{ post.excerpt }}
+        </p>
+        <p><a href="{{post.url}}">Read more...</a></p>
+    </div>
+{% endfor %}
