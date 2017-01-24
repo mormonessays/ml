@@ -1,12 +1,12 @@
 ---
 layout: newsroom
 title: Newsroom
-permalink: /newsroom/
+permalink: /newsroom/es/
 ---
 {% for post in site.posts %}
-    {% if post.lang == "en" %}
+    {% if post.lang == "es" %}
     <div class="row">
-        <span class="news-badge">News Release</span>
+        <span class="news-badge">Noticias</span>
         <span class="news-badge-date">{{ post.news_date_and_location }}</span>
         <br/>
         <br/>
@@ -16,7 +16,7 @@ permalink: /newsroom/
         <p>
             {{ post.excerpt }}
         </p>
-        <p><a href="{{post.url}}">Read more...</a></p>
+        <p><a href="{{post.url}}">Lea mas...</a></p>
     </div>
     {% endif %}
 {% endfor %}
