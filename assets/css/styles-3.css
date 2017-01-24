@@ -312,8 +312,9 @@ textarea {
   margin-top: 0;
   margin-bottom: 30px;
   font-size: 28px;
-  max-width: 760px;
+  
   /*
+  max-width: 760px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
@@ -3258,4 +3259,6 @@ body.sticky-page-nav .overview-section {
   margin-top: 20px;
 }
 
-
+.news-release {
+  margin-bottom: 60px;
+}

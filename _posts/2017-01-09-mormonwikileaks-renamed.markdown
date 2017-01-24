@@ -2,7 +2,7 @@
 layout: news-post
 title: MormonWikiLeaks.com now MormonLeaks.io
 date: 2017-01-09 08:00:00 -0500
-permalink: /newsroom/2017-01-09-mormonwikileaks-now-mormonleaks/
+permalink: /newsroom/2017-01-09-mormonwikileaks-now-mormonleaks-io/
 news_date_and_location: 9 January 2017 - Las Vegas, NV
 lang: en
 ---

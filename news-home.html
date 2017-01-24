@@ -4,8 +4,9 @@ title: Newsroom
 permalink: /newsroom/
 ---
 {% for post in site.posts %}
+   
     {% if post.lang == "en" %}
-    <div class="row">
+    <div class="row news-release">
         <span class="news-badge">News Release</span>
         <span class="news-badge-date">{{ post.news_date_and_location }}</span>
         <br/>
@@ -20,3 +21,9 @@ permalink: /newsroom/
     </div>
     {% endif %}
 {% endfor %}
+
+<ul>
+{% for post in site.posts %}
+<li>{{post.title}}</li>
+{% endfor %}
+</ul>
