@@ -7,6 +7,7 @@ news_date_and_location: 31 Enero 2017 - Las Vegas, NV
 lang: es
 ---
 MormonLeaks&trade; publica los seis documentos siguientes:
+
 1. Carta de excomunión de Fawn Brodie.
 
 	[Documento aquí](http://docdro.id/0hRk1HZ)
