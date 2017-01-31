@@ -1,12 +1,12 @@
 ---
 layout: news-post
-title: Hoy MormonLeaks&trade Publica 6 Documentos 
+title: Hoy MormonLeaks&trade; Publica 6 Documentos 
 date: 2017-01-31 12:00:00 -0500
 permalink: /newsroom/es/2017-01-31-hoy-mormonleaks-publica-seis-documentos/
 news_date_and_location: 31 January 2017 - Las Vegas, NV
 lang: es
 ---
-MormonLeaks publica los seis documentos siguientes:
+MormonLeaks&trade; publica los seis documentos siguientes:
 
 1. Carta de excomunión de Fawn Brodie
 

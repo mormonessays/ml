@@ -1,6 +1,6 @@
 ---
 layout: news-post
-title: MormonLeaks&trade Original Leaks 
+title: MormonLeaks&trade; Original Leaks 
 date: 2016-12-19 10:00:00 -0500
 permalink: /newsroom/2016-12-19-mormonleaks-original-leaks/
 news_date_and_location: 19 December 2016 - Las Vegas, NV

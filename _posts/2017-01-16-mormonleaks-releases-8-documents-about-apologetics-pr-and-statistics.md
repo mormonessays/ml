@@ -6,7 +6,7 @@ permalink: /newsroom/2017-01-16-mormonleaks-releases-8-documents-about-apologeti
 news_date_and_location: 16 January 2017 - Las Vegas, NV
 lang: en
 ---
-Today MormonLeaks™ releases 8 different documents that fall under three categories: Apologetics, Church PR and Statistics
+Today MormonLeaks&trade; releases 8 different documents that fall under three categories: Apologetics, Church PR and Statistics
 
 1. APOLOGETICS:
 

@@ -1,12 +1,12 @@
 ---
 layout: news-post
-title: MormonLeaks&trade Publica Otros 8 Documentos Hoy
+title: MormonLeaks&trade; Publica Otros 8 Documentos Hoy
 date: 2017-01-24 12:00:00 -0500
 permalink: /newsroom/es/2017-01-24-mormonleaks-publica-otros-ocho-documentos-hoy/
 news_date_and_location: 24 January 2017 - Las Vegas, NV
 lang: es
 ---
-MormonLeaks&trade publicó los ocho documentos siguientes:
+MormonLeaks&trade; publicó los ocho documentos siguientes:
 
 1. Nota de pago mediante ingreso en cuenta a Joseph B. Wirthlin de 2002.
 

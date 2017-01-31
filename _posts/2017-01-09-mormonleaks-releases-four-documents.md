@@ -6,7 +6,7 @@ permalink: /newsroom/2017-01-09-mormonleaks-releases-4-documents/
 news_date_and_location: 09 January 2017 - Las Vegas, NV
 lang: en
 ---
-Today MormonLeaks™ (formerly MormonWikiLeaks) releases  4 leaked documents:
+Today MormonLeaks&trade; (formerly MormonWikiLeaks) releases  4 leaked documents:
 
 1. Henry B. Eyring's 2000 paystubs. Formerly a member of the Quorum of the Twelve Apostles, now a member of the First Presidency. 
 

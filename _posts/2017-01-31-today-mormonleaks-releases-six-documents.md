@@ -1,12 +1,12 @@
 ---
 layout: news-post
-title: Today MormonLeaks&trade Releases 6 Documents 
+title: Today MormonLeaks&trade; Releases 6 Documents 
 date: 2017-01-31 12:00:00 -0500
 permalink: /newsroom/2017-01-31-today-mormonleaks-releases-six-documents/
 news_date_and_location: 31 January 2017 - Las Vegas, NV
 lang: en
 ---
-MormonLeaks™ releases the following six documents:
+MormonLeaks&trade; releases the following six documents:
 
 1.  Fawn Brodie's excommunication letter
 	
