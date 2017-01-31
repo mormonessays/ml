@@ -3,7 +3,7 @@ layout: news-post
 title: MormonLeaks&trade; Publica Otros 8 Documentos Hoy
 date: 2017-01-24 12:00:00 -0500
 permalink: /newsroom/es/2017-01-24-mormonleaks-publica-otros-ocho-documentos-hoy/
-news_date_and_location: 24 January 2017 - Las Vegas, NV
+news_date_and_location: 24 Enero 2017 - Las Vegas, NV
 lang: es
 ---
 MormonLeaks&trade; publicó los ocho documentos siguientes:
@@ -16,9 +16,8 @@ MormonLeaks&trade; publicó los ocho documentos siguientes:
 	
 	[Documento aquí](http://docdro.id/GZn8JbC)
 
-*Nota del equipo de MormonLeaks ™: El manual completo de los Presidentes de Misión fue filtrado hace unos años y [se puede ver aquí](https://ia801808.us.archive.org/21/items/MissionPresidentsHandbook2006/Mission%20Presidents_%20Handbook-(2006).pdf).
-
-Consulte el Apéndice B del manual para obtener una descripción de los beneficios financieros designados para los Presidentes de la Misión. La infografía filtrada hoy se basa en gran medida en la misma información, sin embargo, hay algunos puntos de la infografía que no están contenidos en el manual de los Presidentes de la Misión. El más importante es la directiva de no decirle a las Autoridades de Área sobre estas disposiciones financieras.*
+	*Nota del equipo de MormonLeaks ™: El manual completo de los Presidentes de Misión fue filtrado hace unos años y [se puede ver aquí](https://ia801808.us.archive.org/21/items/MissionPresidentsHandbook2006/Mission%20Presidents_%20Handbook-(2006).pdf).
+	Consulte el Apéndice B del manual para obtener una descripción de los beneficios financieros designados para los Presidentes de la Misión. La infografía filtrada hoy se basa en gran medida en la misma información, sin embargo, hay algunos puntos de la infografía que no están contenidos en el manual de los Presidentes de la Misión. El más importante es la directiva de no decirle a las Autoridades de Área sobre estas disposiciones financieras.*
 
 3. Un informe financiero de octubre de 2000 para el Centro Cultural Polinesio.
 
