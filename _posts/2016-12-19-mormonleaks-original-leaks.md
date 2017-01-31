@@ -6,7 +6,7 @@ permalink: /newsroom/2016-12-19-mormonleaks-original-leaks/
 news_date_and_location: 19 December 2016 - Las Vegas, NV
 lang: en
 ---
-On October 2, 2016, MormonLeaks&trade released 15 videos of meetings of the Quorum of the 12 Apostles. You can find the links to them below:
+On October 2, 2016, MormonLeaks&trade; released 15 videos of meetings of the Quorum of the 12 Apostles. You can find the links to them below:
 
 Video #1: Apostles obsess over Chelsea Manning’s sexuality
 
