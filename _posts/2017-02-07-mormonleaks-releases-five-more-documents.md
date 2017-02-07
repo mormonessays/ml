@@ -14,7 +14,7 @@ MormonLeaks&trade; releases the following 5 documents:
 
 2. Internal memo discussing changes Boyd Packer wants to make to some leadership training graphics (2002)
 
-	[Document here](http://docdro.id/4TC6w93)
+	[Document here](http://docdro.id/KocMz2Q)
 
 3. Overview of  temple leadership training session (1997)
 
@@ -22,7 +22,7 @@ MormonLeaks&trade; releases the following 5 documents:
 
 4. Letter from a convert to Boyd Packer (1981)
 
-	[Document here](http://docdro.id/KocMz2Q)
+	[Document here](http://docdro.id/4TC6w93)
 
 5. Various documents related to Russell Nelson’s daily schedule (2001-2003)
 

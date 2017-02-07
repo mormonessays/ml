@@ -10,11 +10,11 @@ MormonLeaks&trade; Publica 5 Documentos:
 
 1. Un presupuesto de un Barrio (2013)
 
-	[Documento aquí](http://docdro.id/e2l7CSA]
+	[Documento aquí](http://docdro.id/e2l7CSA)
 
 2. Memorádum que describe cambios que Boyd Packer quiere hacer a unos materiales de capacitación (2002)
 	
-	[Documento aquí](http://docdro.id/4TC6w93]
+	[Documento aquí](http://docdro.id/KocMz2Q)
 
 3. Borrador de una session de caoacutación del liderazco del templo.(1997)
 	
@@ -22,7 +22,7 @@ MormonLeaks&trade; Publica 5 Documentos:
 
 4. Carta de un converso a Boyd Packer (1981)
 
-	[Documento aquí](http://docdro.id/KocMz2Q)
+	[Documento aquí](http://docdro.id/4TC6w93)
 
 5. Varios documentos de Russell Nelson en cuanto a su horario diario. (2001-2003)
 
