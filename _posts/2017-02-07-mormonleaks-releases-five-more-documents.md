@@ -20,7 +20,7 @@ MormonLeaks&trade; releases the following 5 documents:
 
 	[Document here](http://docdro.id/1yY0Lf9)
 
-4. Letter from a covert to Boyd Packer (1981)
+4. Letter from a convert to Boyd Packer (1981)
 
 	[Document here](http://docdro.id/KocMz2Q)
 
