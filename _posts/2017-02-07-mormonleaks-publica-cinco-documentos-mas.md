@@ -8,7 +8,7 @@ lang: es
 ---
 MormonLeaks&trade; Publica 5 Documentos:
 
-1. Presupuesto de un Barrio (2013)
+1. Un presupuesto de un Barrio (2013)
 
 	[Documento aquí](http://docdro.id/e2l7CSA]
 

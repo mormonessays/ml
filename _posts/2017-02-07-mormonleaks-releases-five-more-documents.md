@@ -6,7 +6,7 @@ permalink: /newsroom/2017-02-07-mormonleaks-releases-five-more-documents/
 news_date_and_location: 07 February 2017 - Las Vegas, NV
 lang: en
 ---
-MormonLeaks&trade; releases the following five documents:
+MormonLeaks&trade; releases the following 5 documents:
 
 1. A ward budget (2013)
 
@@ -24,6 +24,6 @@ MormonLeaks&trade; releases the following five documents:
 
 	[Document here](http://docdro.id/KocMz2Q)
 
-5. Various documents related to Russell Nelson’s daily schedule (2001-2003
+5. Various documents related to Russell Nelson’s daily schedule (2001-2003)
 
 	[Document here](http://docdro.id/o1gxKp6)
