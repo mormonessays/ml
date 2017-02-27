@@ -16,7 +16,7 @@ MormonLeaks&trade; releases the following 3 documents:
 
 	[Document here](http://docdro.id/CdnmNIX)
 
-3. A slide deck of a presentation given to General Authorities regarding issues and ideas leading people away from the church.
+3. PowerPoint Presentation used for Area Authority training to address identified threats to the church.  The PowerPoint was created by a special advisor to the Quorem of the 12 Apostles named Clint Melader. 
 
 	[Document here](http://docdro.id/FSgWOMk)
 
